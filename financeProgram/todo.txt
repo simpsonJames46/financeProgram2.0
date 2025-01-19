@@ -1,0 +1,2 @@
+1. Write functions for saving and retrieving income and expense vectors to/from file for permanence.
+2. Write functions to display income and expense vectors to user in readable format.
